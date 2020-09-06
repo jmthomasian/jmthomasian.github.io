@@ -33,6 +33,12 @@ body {
 	line-height: 1;
 }
 
+audio {
+	background-color: transparent; !important
+	color: #fff;
+
+}
+
 ol, ul {
 	list-style: none;
 }
